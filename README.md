@@ -264,7 +264,3 @@ If those settings are not available in your BIOS, skip them and continue the ins
 ### ⚠️ NOTE ⚠️
 This EFI is not recommended for daily use, because it's still in development stage. If you want to use it for daily use, you can use it at your own risk.
 I'm not responsible for any damage caused by this EFI.
-
-Also, remove the ACPI named [SSDT-RP09.PXSX-disable.aml](EFI%2FOC%2FACPI%2FSSDT-RP09.PXSX-disable.aml) because my 1st nvme slot are broken and caused kernel panic
-
-If not, you can't use your 1st nvme slot 😃
